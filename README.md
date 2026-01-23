@@ -20,5 +20,5 @@
 
 ## 貢獻圖
 
-[![snake](https://raw.githubusercontent.com/dc2023tw/dc2023tw/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAADSWBAJJLITVNEI5PP3SKSFO2LTHT5A)]
+![snake](https://raw.githubusercontent.com/dc2023tw/dc2023tw/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAADSWBAJJLITVNEI5PP3SKSFO2LTHT5A)
 
