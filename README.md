@@ -1,16 +1,19 @@
-<!-- Top Languages（compact） -->
+<!-- Popular Languages ​​(Compact) -->
 
-## 我的技能
+## My Skills
 
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=javascript,java,php,python,cpp,csharp,css,typescript,autohotkey,ubuntu,visualstudio,visualstudiocodeinsiders,visualstudiocode,vercel,cloudflare,docker)](https://github.com/syvixor/skills-icons)
 
-- 框架和套件：Discord.py,Pillow,Wavelink,oniondctw
-- 工具：VSCode,Dev-C++,Notepad++
+- Frameworks & Libraries: Discord.py, Pillow, Wavelink, oniondctw (Currently learning C++ and C#)
+- Tools: VSCode, Dev-C++, Notepad++, ~~Notepad, My Brain~~
 
-## 目前正在開發的專案
+## Projects Currently Under Development
 
-- OnionDCTW pypi 套件
-- 墨狐酒館 官網
-- 墨狐酒館 機器人
+- File sharing platform
+- 
 
+## Completed Projects
 
+- oniondctw PyPI package
+- Mofox Tavern website
+- Mofox Tavern Discord Bot
